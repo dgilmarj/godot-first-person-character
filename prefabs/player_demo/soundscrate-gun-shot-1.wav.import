@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/soundscrate-gun-shot-1.wav-60cf4a09cc7da63ac6b9107ac395c4a4.sample"
+
+[deps]
+
+source_file="res://prefabs/player_demo/soundscrate-gun-shot-1.wav"
+dest_files=[ "res://.import/soundscrate-gun-shot-1.wav-60cf4a09cc7da63ac6b9107ac395c4a4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

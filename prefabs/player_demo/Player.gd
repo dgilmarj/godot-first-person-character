@@ -23,6 +23,7 @@ var mouse_motion = Vector2()
 var gravity_speed = 0
 
 func _ready():
+	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 	ground_ray.enabled = true
 	pass
 
